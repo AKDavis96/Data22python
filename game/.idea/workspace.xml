@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73ee1fd2-16f5-4d6c-af14-4c5fe9a8852d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../libraries/SpartaEmployee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4 pillars/Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4 pillars/Reptile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4 pillars/Snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deletemeeeeeeee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
