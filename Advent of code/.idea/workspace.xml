@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74022b21-746c-470c-9b4e-b2f692cf7f36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../4 pillars/.idea/4 pillars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4 pillars/Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4 pillars/Reptile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../4 pillars/Snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../game/deletemeeeeeeee.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../game/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../game/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
